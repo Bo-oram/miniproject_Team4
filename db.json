@@ -1,0 +1,45 @@
+{
+  "posting": [
+    {
+      "id": 0,
+      "img": "https://cdn.shopify.com/s/files/1/0528/8266/9745/products/1000000016_detail_189_817e0d5b-eadb-4ca9-bf75-21fc2e0d65e0.jpg?v=1634795163&width=600",
+      "text": "테스트용 떡볶이"
+    },
+    {
+      "id": 1,
+      "img": "https://pbs.twimg.com/media/FIJs9cdaIAYm0zI?format=jpg&name=large",
+      "text": "테스트용 불토탕"
+    },
+    {
+      "id": 2,
+      "img": "",
+      "text": "테스트용 이미지 없는 게시글"
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "email": "dev@dev.com",
+      "password": "devdev123",
+      "username": "김항해"
+    },
+    {
+      "id": 1,
+      "email": "minkyung@dev.com",
+      "password": "minkyung123",
+      "username": "김민경"
+    },
+    {
+      "id": 2,
+      "email": "boram@dev.com",
+      "password": "boram123",
+      "username": "김보람"
+    },
+    {
+      "id": 4,
+      "email": "min0@dev.com",
+      "password": "min0123",
+      "username": "튜터님"
+    }
+  ]
+}
